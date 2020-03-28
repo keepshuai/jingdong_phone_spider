@@ -1,0 +1,2 @@
+# jingdong_phone_spider
+使用scrapy和selenium爬取京东商城手机详情
