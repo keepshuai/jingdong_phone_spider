@@ -228,7 +228,7 @@ class MongoPipeline(object):
 配置settings文件，将项目中使用到的配置项在settings文件中配置，本项目中使用到了KEYWORDS,MAX_PAGE,SELENIUM_TIMEOUT(页面加载超时时间)，MONGOURL,MONGODB,COLLECTION。
 
 ```
-KEYWORDS=['iPad']
+KEYWORDS=['phone']
 MAX_PAGE=2
 MONGO_URL = 'localhost'
 MONGO_DB = 'test'
